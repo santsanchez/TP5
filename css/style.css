@@ -238,6 +238,22 @@ header p {
 
 .blue {
 	padding-left: 30px;
+	color:#00aef3
+}
+
+.yellow {
+	padding-left: 30px;
+	color: #fce000;
+}
+
+.orange {
+	padding-left: 30px;
+	color:#ffa57b;
+}
+
+.red {
+	padding-left: 30px;
+	color:#fe9373;
 }
 
 .box2 table tr, td  {
@@ -266,10 +282,6 @@ header p {
     letter-spacing: 1px;
     font-size: 15px;
     margin: 15px 0 45px 0;
-}
-
-.box2 .blue {
-	color:#00aef3;
 }
 
 /*section-five*/
